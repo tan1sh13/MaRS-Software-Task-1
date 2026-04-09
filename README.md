@@ -17,7 +17,7 @@ Working on this task helped me:
 
 ---
 
-# 📐 Equations, Theorems & Concepts Used
+#  Equations, Theorems & Concepts Used
 
 ###  1. Moving Average (Muchiko Filter)
 
